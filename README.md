@@ -3,6 +3,16 @@
 A structured knowledge base built alongside learning programming languages. Every note earns its place, every link is intentional, and the system is designed so any topic can be re-entered months later without losing context.
 
 ---
+## Context
+
+This started as a personal problem — I wanted to learn Python seriously and couldn't find a note-taking approach that didn't eventually collapse into a graveyard of disconnected files. So before writing any actual notes, I spent 3 days designing the system that would hold them.
+
+I was 17 when I built this, with no prior exposure to PKM tools or frameworks. Everything here came from thinking through failure modes and other styles of questioning: what makes a note useless, what makes a graph unnavigable, what makes a system require more upkeep than it's worth.
+
+
+The Python folder is a working demo. The vault grows as the learning does — the architecture is designed to hold at any size.
+
+For more context, refer to  `About.md`
 
 ## Quick Start
 
