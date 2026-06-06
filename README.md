@@ -30,7 +30,7 @@ An Obsidian vault built around four core ideas:
 - **MOCs (Maps of Content)** — hub notes that organise a domain and provide a consistent re-entry point
 - **Typed notes** — every note declares its type (`#Concept`, `#Bug`, `#Pattern`, etc.) so its role is always clear
 - **Bidirectional YAML linking** — concept notes point up to their MOC; MOCs list their children; related notes link sideways. The graph is a byproduct of structure, not the goal. The graph comes into play functionally when relearning, revisiting or tracing paths is required. If that is the case simply turn on arrows, place your cursor over an MOC and watch the path unfold.
-- <img width="1448" height="1086" alt="img" src="https://github.com/user-attachments/assets/d2129117-2bbf-4d0c-9fe1-18a25278e49a" />
+ <img width="1448" height="1086" alt="img" src="https://github.com/user-attachments/assets/d2129117-2bbf-4d0c-9fe1-18a25278e49a" />
 
 - **Written principles** — explicit rules governing what gets noted, how notes are written, and how the system scales
 
